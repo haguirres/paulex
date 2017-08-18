@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.15
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaulexPortal", "PaulexPortal\PaulexPortal.csproj", "{1B5EF08A-D6CE-4EB2-A927-2E2C55BBAECB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaulexTechnologiesSite", "PaulexTechnologiesSite\PaulexTechnologiesSite.csproj", "{3B2D080C-6173-42EB-B915-FEAACBD3EFDB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1B5EF08A-D6CE-4EB2-A927-2E2C55BBAECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1B5EF08A-D6CE-4EB2-A927-2E2C55BBAECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1B5EF08A-D6CE-4EB2-A927-2E2C55BBAECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1B5EF08A-D6CE-4EB2-A927-2E2C55BBAECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B2D080C-6173-42EB-B915-FEAACBD3EFDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B2D080C-6173-42EB-B915-FEAACBD3EFDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B2D080C-6173-42EB-B915-FEAACBD3EFDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B2D080C-6173-42EB-B915-FEAACBD3EFDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
